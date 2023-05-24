@@ -8,7 +8,7 @@ An ATM (Automated Teller Machine) is an electronic machine used for financial tr
 ![ATM Machine Source Code_page-0002](https://github.com/Anichinna/ATM-Machine/assets/130660291/f24b48d7-e235-4ab8-9cdf-08a08467415d)
 
 
-2. ATM Machine Program Output
+2. ATM Machine Program Output Pages 
 
 ![i-converter_com-0](https://github.com/Anichinna/ATM-Machine/assets/130660291/c7cd862a-554f-4e1f-a9bd-fa8f9c943b83)
 
